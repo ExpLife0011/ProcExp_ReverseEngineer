@@ -14,7 +14,7 @@ Command-line:
 procexp action pid
 
 available actions:
-	modules    list all modules(DLLs) of a process
+    modules    list all modules(DLLs) of a process
     handles    list all handles of a process
 ```
 
